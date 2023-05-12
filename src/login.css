@@ -1,0 +1,15 @@
+.login{
+    display: flex;
+    flex-direction: column;
+    align-items:center;
+    gap:5px;
+    
+   
+}
+.button{
+    color:black;
+    background-color:rgb(122, 141, 209);
+    border-radius:5px;
+    box-shadow: 5px;
+    font-size: medium;
+}

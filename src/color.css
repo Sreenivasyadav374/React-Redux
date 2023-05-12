@@ -1,0 +1,12 @@
+.color{
+    display: flex;
+    flex-direction: column;
+    align-items:center;
+    gap:5px;
+}
+.cbutton{
+    color: black;
+    background-color: cadetblue;
+    font-size: medium;
+    border-radius: 7px;
+}

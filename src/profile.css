@@ -1,0 +1,9 @@
+.Profile{
+    display: flex;
+    justify-content:space-around;
+    align-items: center;
+}
+.head{
+    display: flex;
+    justify-content: center;
+}
